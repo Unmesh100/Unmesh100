@@ -1,5 +1,5 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="banner"/>
-<h1 align="center">Hi 👋, I'm Ritesh Pramanik</h1>
+<h1 align="center">Hi 👋, I'm Unmesh Ghosh</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 <p align="center">
     <img src="https://github.com/ritesh2004/ritesh2004/assets/109234507/d2cd718c-edbc-45e4-abfe-e59743ae80b2" alt="">
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about *Django, Python, Javascript, MERN*
 
-- 📫 How to reach me *ritesh.29@outlook.com*
+- 📫 How to reach me *bubunghosh1214@gmail.com*
 
 
 # 💻 Tech Stack:
