@@ -58,7 +58,7 @@
   <a href="mailto:unmesh.280@gmail.com" >
     <img align="center" alt="kairvee | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/@Unmesh_Gosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unmesh" height="30" width="40" /></a>
+  <a href="https://twitter.com/@Unmesh_Ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unmesh" height="30" width="40" /></a>
 
 <p>
 
