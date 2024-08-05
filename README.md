@@ -40,7 +40,6 @@
 
 
 
-  <img  align="center"  src="![Screenshot 2024-06-30 234535](https://github.com/user-attachments/assets/5f755e18-55fd-4d4e-af3c-5112c0f4b047)" />
   <br></br>
  
 
