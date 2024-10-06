@@ -38,7 +38,9 @@
 
 ![Screenshot 2024-06-30 234535](https://github.com/user-attachments/assets/a090fbb4-8541-4085-9dae-142987ccad67)
 
+![2024-50-lg](https://github.com/user-attachments/assets/b6f08bb8-3867-4253-bc69-8bff86e0e5a8)![2024-200-lg](https://github.com/user-attachments/assets/2553f2c3-ca45-4b93-a5c0-55b3d48e2d36)![2024-100-lg](https://github.com/user-attachments/assets/547ba0fd-831f-4a4b-b853-3c836d51a0b0)
 
+![Screenshot 2024-10-07 000812](https://github.com/user-attachments/assets/8442318e-731a-41b4-9c5f-70636c66e093)
 
   <br></br>
  
