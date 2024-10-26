@@ -38,8 +38,13 @@
 
 ![Screenshot 2024-06-30 234535](https://github.com/user-attachments/assets/a090fbb4-8541-4085-9dae-142987ccad67)
 
+<p align="center">
+  <a href="https://leetcode.com/Unmesh2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Unmesh2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Unmesh2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Unmesh2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+</p>
 
-![2024](https://github.com/user-attachments/assets/6b45930c-a69d-4023-b7e1-ee3b0e8cd1d0)![2024-200](https://github.com/user-attachments/assets/2134d9b6-d527-45f1-9024-6590035f3f22)![2024-100-new](https://github.com/user-attachments/assets/460113a1-9dd9-41aa-bfb2-cfc3547e2f97)![2024-50](https://github.com/user-attachments/assets/b9e7d20c-12c0-475c-84ea-1af52efaf8de)
 
 
 
