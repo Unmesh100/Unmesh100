@@ -49,7 +49,8 @@
 
 
 
-![Screenshot 2024-10-07 000812](https://github.com/user-attachments/assets/8442318e-731a-41b4-9c5f-70636c66e093)
+
+
 
   <br></br>
  
@@ -62,7 +63,10 @@
 <td width="50%" align="center">
 
  
-  <br></br>
+  <br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Unmesh100&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unmesh100&theme=vision_friendly_dark" alt="GitHub Streak" /></a>
+</br>
  
 
 
