@@ -65,11 +65,15 @@
  
   <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Unmesh100&theme=highcontrast" alt="GitHub Streak" /></a>
+  
+<td>
+
 <a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unmesh100&theme=vision_friendly_dark" alt="GitHub Streak" /></a>
-</br>
  
+</td>
 
-
+</br>
+<table>
 <p >
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
@@ -77,7 +81,7 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </p>
-
+</table>
 
 
 
