@@ -39,8 +39,6 @@
 ![Screenshot 2024-06-30 234535](https://github.com/user-attachments/assets/a090fbb4-8541-4085-9dae-142987ccad67)
 
 <p align="center">
-<tr border="none">
-<td width="50%" align="center">
   <a href="https://leetcode.com/Unmesh2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Unmesh2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Unmesh2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
