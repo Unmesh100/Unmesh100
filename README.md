@@ -61,16 +61,23 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unmesh100&theme=vision_friendly_dark" alt="GitHub Streak" /></a>
 
  
   <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Unmesh100&theme=highcontrast" alt="GitHub Streak" /></a>
+  <td>
   
-<td>
+  
+  ![Screenshot 2024-11-03 193900](https://github.com/user-attachments/assets/29b972dc-dba4-4982-8542-25b22669b05b)
 
-<a href="https://git.io/streak-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unmesh100&theme=vision_friendly_dark" alt="GitHub Streak" /></a>
- 
 </td>
+
+
+
+ 
+
+
+
 
 </br>
 <table>
