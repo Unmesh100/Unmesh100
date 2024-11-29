@@ -22,9 +22,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.Unmesh100 }}
-          # Define the output files and their configurations
+          github_user_name: Unmesh100
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
