@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate with Web 3 and Fullstack Developers.
 - 🤔 I’m looking for help with Web-3 projects.
 - ⚙️ I use daily: `.js`, `.java`, `.jsx`, `.ts`
-- 💬 Ping me about **CP**, **Fullstack Development**, **Devops**, **Web3**
+- 💬 Ping me about **CP**, **Fullstack Development**, **Devops**, **Web3**, **AI ML**
 
 </td>
 <td width="50%" align="center">
